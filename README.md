@@ -24,7 +24,8 @@ utilsier les chemn absolus pour les images
 Exemple et aide :
 
 En Python, la bibliothèque PIL permet de manipuler les images :
-'''python
+
+```python
 from PIL import Image
 from IPython.display import display
 import urllib.request
@@ -58,10 +59,7 @@ display(im)
  
 # sauvegarde locale de l'image
 new_im.save('image_mod.bmp')
-'''
+```
 
 
-
-
-
-
+xxx
