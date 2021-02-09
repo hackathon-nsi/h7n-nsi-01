@@ -56,9 +56,6 @@ im.putpixel((x,y),(r,g,b))
  
 # affichage de l'image
 display(im)
- 
-# sauvegarde locale de l'image
-new_im.save('image_mod.bmp')
 ```
 
 
