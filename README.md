@@ -15,7 +15,7 @@ Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une tehcniq
 Méthode de travail : dans le repertoire GitHub de votre equipe, completer le fichier README.md et place un ou plusieurts fichier en .py qui contiendront le code Python.
 
 Consignes :
-utilsier les chemn absolus pour les images
+
 
 
 
