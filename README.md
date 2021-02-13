@@ -6,7 +6,7 @@ L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) ma
 
 But  : faire en Python ce que Kensuke Koike fait à la main.
 
-Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 
 **IMAGES**
@@ -23,27 +23,9 @@ Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une techniq
 
 
 
-
-
 Consignes :
 * rédiger la documentation de votre projet dans le fichier README.md
 * placer le code Python dans des fichiers .py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
