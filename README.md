@@ -9,6 +9,13 @@ But  : faire en Python ce que Kensuke Koike fait à la main.
 Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 
+**IMAGES**
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-01.png)
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-02.png)
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-03.png)
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-04.png)
+
+**VIDEOS**
 [![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
 [![voir](https://img.youtube.com/vi/f1fXCRtSUWU/maxresdefault.jpg)](https://youtu.be/f1fXCRtSUWU)
 [![voir](https://img.youtube.com/vi/As2KMSOad08/maxresdefault.jpg)](https://youtu.be/As2KMSOad08)
