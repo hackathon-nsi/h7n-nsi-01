@@ -2,19 +2,39 @@
 
 ~ Kensuke Koike Pyxelator ~
 
-L'artiste visuel contemporain Kensuke Koike (https://www.kensukekoike.com/) manipule les images pour leur donner une autre vie. Plusieurs de ses travaux sont présentés dans cet article : https://www.bewaremag.com/kensuke-koike/.
+L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) manipule les images pour leur donner une autre vie. Plusieurs de ses travaux sont présentés dans cet article : https://www.bewaremag.com/kensuke-koike/. Son compte Twitter : [@k_koi](https://twitter.com/k_koi)
+
+But  : faire en Python ce que Kensuke Koike fait à la main.
+
+Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 
-En informatique il existe deux grandes catégories d'images : les images vectorielles et les image matricielles. Parmi les images matricielles, il existe plusieurs formats : les formats compressés comme les formats jpg et png et des formats non compressés comme les formats bmp et tiff. Pour simplifier la manipulation des images, nous allons utiliser le format non compressé `bmp`.
 
-But  : faire en Python ce que l'artisite japonais, Kensuke Koike, fait à la main.
+[![voir](https://img.youtube.com/vi/f1fXCRtSUWU/maxresdefault.jpg)](https://youtu.be/f1fXCRtSUWU)
+[![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
+[![voir](https://img.youtube.com/vi/As2KMSOad08/maxresdefault.jpg)](https://youtu.be/As2KMSOad08)
+[![voir](https://img.youtube.com/vi/GhR0J9Yjd8Q/maxresdefault.jpg)](https://youtu.be/GhR0J9Yjd8Q)
 
 
-Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous et choisir une tehcnique à réaliser en Python. Les imqges que vous qvez le droit dùutiliser sont dans le dossier "images".
 
-Méthode de travail : dans le repertoire GitHub de votre equipe, completer le fichier README.md et place un ou plusieurts fichier en .py qui contiendront le code Python.
+
 
 Consignes :
+* rédiger la documentation de votre projet dans le fichier README.md
+* placer le code Python dans des fichiers .py
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,7 +77,3 @@ im.putpixel((x,y),(r,g,b))
 # affichage de l'image
 display(im)
 ```
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
-xxx
