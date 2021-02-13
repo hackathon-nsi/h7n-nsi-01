@@ -1,12 +1,14 @@
-**H7N-NSI #01**
+### H7N-NSI #01
 
 ~ Kensuke Koike Pyxelator ~
 
 L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) manipule les images pour leur donner une autre vie. Plusieurs de ses travaux sont présentés dans cet article : https://www.bewaremag.com/kensuke-koike/. Son compte Twitter : [@k_koi](https://twitter.com/k_koi)
 
-But  : faire en Python ce que Kensuke Koike fait à la main.
+#### But
+Faire en Python ce que Kensuke Koike fait à la main.
 
-Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+#### Sujet
+Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 
 **IMAGES**
@@ -23,14 +25,13 @@ Sujet  : Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et
 
 
 
-Consignes :
+#### Consignes
 * rédiger la documentation de votre projet dans le fichier README.md
 * placer le code Python dans des fichiers .py
 
 
 
-Exemple et aide :
-
+#### Exemple et aide
 En Python, la bibliothèque PIL permet de manipuler les images :
 
 ```python
