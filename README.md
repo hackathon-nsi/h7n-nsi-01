@@ -12,15 +12,39 @@ Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir 
 
 
 **IMAGES**
+
+**Technique 1**
+
 ![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-01.png)
+
+**Technique 2**
+
 ![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-02.png)
+
+**Technique 3**
+
 ![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-03.png)
+
+**Technique 4**
+
 ![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-04.png)
 
 **VIDEOS**
+
+**Technique 5**
+
 [![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
+
+**Technique 6**
+
 [![voir](https://img.youtube.com/vi/f1fXCRtSUWU/maxresdefault.jpg)](https://youtu.be/f1fXCRtSUWU)
+
+**Technique 7**
+
 [![voir](https://img.youtube.com/vi/As2KMSOad08/maxresdefault.jpg)](https://youtu.be/As2KMSOad08)
+
+**Technique 8**
+
 [![voir](https://img.youtube.com/vi/GhR0J9Yjd8Q/maxresdefault.jpg)](https://youtu.be/GhR0J9Yjd8Q)
 
 
