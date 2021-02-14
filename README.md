@@ -2,13 +2,18 @@
 
 ~ Kensuke Koike Pyxelator ~
 
-L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) manipule les images pour leur donner une autre vie. Plusieurs de ses travaux sont présentés dans cet article : https://www.bewaremag.com/kensuke-koike/. Son compte Twitter : [@k_koi](https://twitter.com/k_koi)
+L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) est connu pour ses manipulations de photographie anciennes. Il décompose les images pour en créer de nouvelles. Plusieurs de ses travaux sont présentés dans ces articles : [www.bewaremag.com](https://www.bewaremag.com/kensuke-koike/) & [www.pen-online.com](https://pen-online.com/fr/arts/kensuke-koike-alchimiste-de-la-photo-detournee/). Son compte Twitter : [@k_koi](https://twitter.com/k_koi). Son site internet : https://www.kensukekoike.com/.
 
 #### But
 Faire en Python ce que Kensuke Koike fait à la main.
 
 #### Sujet
-Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Les images que vous avez le droit d'utiliser sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+Analyser les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python (attention, certaines sont plus difficiles que d'autres à implémenter). Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+
+#### Consignes
+* rédiger la documentation de votre projet dans le fichier README.md (présenter la technique choisie, décrire la démarche, expliquer le code...)
+* placer le code Python dans un ou plusieurs fichiers .py
+* commenter le code
 
 
 **IMAGES**
@@ -48,14 +53,7 @@ Analysez les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir 
 [![voir](https://img.youtube.com/vi/GhR0J9Yjd8Q/maxresdefault.jpg)](https://youtu.be/GhR0J9Yjd8Q)
 
 
-
-#### Consignes
-* rédiger la documentation de votre projet dans le fichier README.md
-* placer le code Python dans des fichiers .py
-
-
-
-#### Exemple et aide
+#### Aide
 En Python, la bibliothèque PIL permet de manipuler les images :
 
 ```python
