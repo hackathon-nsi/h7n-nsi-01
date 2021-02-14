@@ -2,18 +2,19 @@
 
 ~ Kensuke Koike Pyxelator ~
 
-L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) est connu pour ses manipulations de photographie anciennes. Il décompose les images pour en créer de nouvelles. Plusieurs de ses travaux sont présentés dans ces articles : [www.bewaremag.com](https://www.bewaremag.com/kensuke-koike/) & [www.pen-online.com](https://pen-online.com/fr/arts/kensuke-koike-alchimiste-de-la-photo-detournee/). Son compte Twitter : [@k_koi](https://twitter.com/k_koi). Son site internet : https://www.kensukekoike.com/.
+L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) est connu pour ses manipulations de photographies anciennes. Plusieurs de ses travaux sont présentés dans ces articles : [www.bewaremag.com](https://www.bewaremag.com/kensuke-koike/) & [www.pen-online.com](https://pen-online.com/fr/arts/kensuke-koike-alchimiste-de-la-photo-detournee/). Son compte Twitter : [@k_koi](https://twitter.com/k_koi). Son site internet : https://www.kensukekoike.com/.
 
 #### But
 Faire en Python ce que Kensuke Koike fait à la main.
 
 #### Sujet
-Analyser les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python (attention, certaines sont plus difficiles que d'autres à implémenter). Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+Analyser les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Attention, certaines sont plus difficiles que d'autres à implémenter. Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 #### Consignes
-* rédiger la documentation de votre projet dans le fichier README.md (présenter la technique choisie, décrire la démarche, expliquer le code...)
-* placer le code Python dans un ou plusieurs fichiers .py
-* commenter le code
+* Rédiger la documentation de votre projet dans le fichier README.md (présenter la technique choisie, décrire la démarche, expliquer le code...)
+* Placer le code Python dans un ou plusieurs fichiers .py
+* Commenter le code
+* Toute contribution doit faire l'objet de discussions entre les membres d'une équipe avant soumission ("commit"). De plus, les contributions des différents membres d'une équipe doivent être équilibrées. Si un membre dépasse un seuil de contribution (60% pour une équipe de deux, 40% pour une equipe de trois), il doit cesser ses contributions et communiquer avec les autes memebres de l'équipes afin de partager et expliquer ses idées et son code. 
 
 
 **IMAGES**
