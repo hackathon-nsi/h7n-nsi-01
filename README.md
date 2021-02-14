@@ -8,7 +8,7 @@ L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) es
 Faire en Python ce que Kensuke Koike fait à la main.
 
 #### Sujet
-Analyser les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir une technique à réaliser en Python. Attention, certaines sont plus difficiles que d'autres à implémenter. Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
+Analyser les oeuvres de Kensuke Koike ci-dessous (vidéos et images) et choisir une technique à réaliser en Python. Attention, certaines sont plus difficiles que d'autres à implémenter. Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 #### Consignes
 * Rédiger la documentation de votre projet dans le fichier README.md (présenter la technique choisie, décrire la démarche, expliquer le code...)
@@ -16,42 +16,43 @@ Analyser les oeuvres de Kensuke Koike ci-dessous (images et vidéos) et choisir 
 * Commenter le code
 * Toute contribution doit faire l'objet de discussions entre les membres d'une équipe avant soumission ("commit"). De plus, les contributions des différents membres d'une équipe doivent être équilibrées. Si un membre dépasse un seuil de contribution (60% pour une équipe de deux, 40% pour une equipe de trois), il doit cesser ses contributions et communiquer avec les autes memebres de l'équipes afin de partager et expliquer ses idées et son code. 
 
-
-**IMAGES**
-
-**Technique 1**
-
-![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-01.png)
-
-**Technique 2**
-
-![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-02.png)
-
-**Technique 3**
-
-![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-03.png)
-
-**Technique 4**
-
-![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-04.png)
+<br />
 
 **VIDEOS**
 
-**Technique 5**
+**Technique 1**
 
 [![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
 
-**Technique 6**
+**Technique 2**
 
 [![voir](https://img.youtube.com/vi/f1fXCRtSUWU/maxresdefault.jpg)](https://youtu.be/f1fXCRtSUWU)
 
-**Technique 7**
+**Technique 3**
 
 [![voir](https://img.youtube.com/vi/As2KMSOad08/maxresdefault.jpg)](https://youtu.be/As2KMSOad08)
 
-**Technique 8**
+**Technique 4**
 
 [![voir](https://img.youtube.com/vi/GhR0J9Yjd8Q/maxresdefault.jpg)](https://youtu.be/GhR0J9Yjd8Q)
+
+<br />
+
+**IMAGES**
+
+**Technique 5**
+
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-02.png)
+
+**Technique 6**
+
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-03.png)
+
+**Technique 7**
+
+![voir](https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-01/main/kk-04.png)
+
+
 
 
 #### Aide
