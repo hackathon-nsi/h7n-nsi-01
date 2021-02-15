@@ -4,10 +4,8 @@
 
 L'artiste contemporain japonais Kensuke Koike (https://www.kensukekoike.com/) est connu pour ses manipulations de photographies anciennes. Plusieurs de ses travaux sont présentés dans ces articles : [www.bewaremag.com](https://www.bewaremag.com/kensuke-koike/) & [www.pen-online.com](https://pen-online.com/fr/arts/kensuke-koike-alchimiste-de-la-photo-detournee/). Son compte Twitter : [@k_koi](https://twitter.com/k_koi). Son site internet : https://www.kensukekoike.com/.
 
-#### But
+#### Mission
 Faire en Python ce que Kensuke Koike fait à la main.
-
-#### Sujet
 Analyser les oeuvres de Kensuke Koike ci-dessous (vidéos et images) et choisir une technique à réaliser en Python. Attention, certaines sont plus difficiles que d'autres à implémenter. Les images à manipuler avec le code Python sont dans le dossier "images" (https://github.com/hackathon-nsi/h7n-nsi-01/images).
 
 #### Consignes
